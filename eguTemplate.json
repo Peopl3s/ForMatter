@@ -1,0 +1,26 @@
+{
+	"-templatename-": "ЕГУ реферат",
+	"-aligment-": "По ширине",
+	"-linespace-": "1.5",
+	"-redline-": 1.25,
+	"-font-" :
+	{
+		"-fontname-": "Times New Roman",
+		"-fontsize-": 14,
+		"-bold-":false,
+		"-italic-":false,
+		"-underline-":false,
+		"-fontcolor-": "#000000"
+	},
+	"-sections-":
+	{
+		"-top-":2,
+		"-bottom-":2,
+		"-left-":3,
+		"-right-": 1.5
+	},
+	"-before-":0,
+	"-after-":0,
+	"-intright-":0,
+	"-intleft-":0
+}
