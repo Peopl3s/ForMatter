@@ -1,3 +1,3 @@
 # ForMatter
 [logo]: formatter.PNG "Logo text"
-Docx(doc) files formatter. Python + python-docx + PySimpleGUI
+Docx(doc) files formatter. Python3 + python-docx + PySimpleGUI 
